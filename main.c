@@ -13,8 +13,8 @@ int main()
     SetTargetFPS(60);
     Font appFont = LoadFont("fonts/NotoSans-Medium.ttf");
 
-
     char filePath[1024] = "";
+
 
     while (!WindowShouldClose())
     {
